@@ -1,9 +1,3 @@
-/*
- * This code was written by Sjanrie Sanya Hendrikz
- * ICAS Number: 20230667
- * Campus: Port Elizabeth
- */
-
 package com.mycompany.ctumarksapplication;
 
 public class CTUMarksApplication {
